@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.listitem {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+  width: 60vw;
+}
+button {
+  background-color: #ffffff;
+  border: 1px solid #ff0b37;
+  border-radius: 5px;
+  color: #ff0b37;
+  height: 25px;
+}

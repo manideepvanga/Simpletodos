@@ -1,0 +1,29 @@
+/* Write your CSS here */
+* {
+  font-family: Roboto;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffc2a0;
+  height: 100vh;
+}
+.content {
+  background-color: #ffffff;
+  width: 80vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 10px;
+}
+.heading1 {
+  color: #ff8542;
+}
+.unorder {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
